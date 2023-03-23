@@ -17,7 +17,7 @@ public class Main {
             trabajador.edad = 30;
             trabajador.telefono = "12345678";
             trabajador.nombre = "Juan";
-            trabajador.salario = 2000;
+            trabajador.salario = 3000;
             System.out.println("Nombre : " + trabajador.nombre +
                     " Edad : " + trabajador.edad +
                     " Telefono : " + trabajador.telefono +
